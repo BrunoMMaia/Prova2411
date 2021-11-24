@@ -1,0 +1,8 @@
+### Listar vendas
+POST https://localhost:5001/api/formapagamento/create
+Content-Type: application/json
+
+{
+ "Tipo": "Cartão",
+ "Descricao": "Cartão de credito";
+}
